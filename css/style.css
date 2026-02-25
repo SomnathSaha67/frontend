@@ -1,0 +1,10 @@
+body{
+    background: #8a2be2; /* red, blue, yellow, etc */
+    color: white;
+    font-size: 20px; /*0px to 100px and beyond*/
+    font-weight: bold; /*lighter, normal, bold*/
+    text-align: left; /*left, center, right*/
+    margin-top: 15px; /*from 0px and upwards, distance from top */
+
+    
+}
