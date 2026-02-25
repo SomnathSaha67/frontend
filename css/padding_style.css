@@ -1,0 +1,14 @@
+.card{
+    color: black;
+    background: burlywood;
+    width: 300px;
+    margin-top: 200px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px dotted green;
+    border-radius: 30px;
+    padding: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
